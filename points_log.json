@@ -71,12 +71,18 @@
   },
   "未知账号": {
     "total_points": 0,
-    "checkin_count": 5,
-    "last_checkin_date": "2026-10-27",
+    "checkin_count": 6,
+    "last_checkin_date": "2026-10-28",
     "last_points": 0,
     "left_days": "?",
     "current_points": 281,
     "recent": [
+      {
+        "date": "2026-10-28",
+        "points": 0,
+        "left_days": "?",
+        "message": "没有权限"
+      },
       {
         "date": "2026-10-27",
         "points": 0,
