@@ -1,11 +1,17 @@
 {
   "slss12@qq.com": {
-    "total_points": 617,
-    "checkin_count": 70,
-    "last_checkin_date": "2026-11-07",
+    "total_points": 618,
+    "checkin_count": 71,
+    "last_checkin_date": "2026-11-08",
     "last_points": 1,
-    "left_days": "355",
+    "left_days": "354",
     "recent": [
+      {
+        "date": "2026-11-08",
+        "points": 1,
+        "left_days": "354",
+        "message": "签到成功！获得 1 积分"
+      },
       {
         "date": "2026-11-07",
         "points": 1,
@@ -59,15 +65,9 @@
         "points": 0,
         "left_days": "385",
         "message": "今日已签到，明天再来"
-      },
-      {
-        "date": "2026-10-22",
-        "points": 10,
-        "left_days": "386",
-        "message": "签到成功！获得 10 积分"
       }
     ],
-    "current_points": 406
+    "current_points": 407
   },
   "未知账号": {
     "total_points": 0,
