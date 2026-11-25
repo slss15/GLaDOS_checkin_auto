@@ -1,11 +1,17 @@
 {
   "slss12@qq.com": {
     "total_points": 624,
-    "checkin_count": 87,
-    "last_checkin_date": "2026-11-24",
+    "checkin_count": 88,
+    "last_checkin_date": "2026-11-25",
     "last_points": 0,
-    "left_days": "338",
+    "left_days": "337",
     "recent": [
+      {
+        "date": "2026-11-25",
+        "points": 0,
+        "left_days": "337",
+        "message": "Cloudflare verification failed. Nothing was recorded — please retry."
+      },
       {
         "date": "2026-11-24",
         "points": 0,
@@ -59,12 +65,6 @@
         "points": 2,
         "left_days": "346",
         "message": "今日已签到，明天再来"
-      },
-      {
-        "date": "2026-11-15",
-        "points": 0,
-        "left_days": "347",
-        "message": "Cloudflare verification failed. Nothing was recorded — please retry."
       }
     ],
     "current_points": 413
